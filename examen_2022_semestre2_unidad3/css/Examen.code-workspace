@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../tarea_formulario_GeovannyAc7SB"
+		},
+		{
+			"path": "../../tarea_maquetacion_firefox_GeovannyAc7SB"
+		},
+		{
+			"path": "../../tarea_completa_TEC_GeovannyAc7SB"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "examen_2022_semestre2_unidad3"
+	}
+}
